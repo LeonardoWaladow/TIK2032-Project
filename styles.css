@@ -1,0 +1,42 @@
+body {
+color: white;
+font-family : "times new roman";
+
+background-color: #5f6f52;
+}
+
+.element1{
+a:link, a:visited {
+  background-color: #3D4B65;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #3D4B65;
+}
+}
+
+.element2{
+a:link, a:visited {
+  background-color: #5f6f52;
+  color: white;
+  border-style: hidden hidden groove;
+  padding: 15px 25px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #5f6f52;
+}
+}
+
+.element {
+  background-color: #3D4B65;
+  padding: 1px;
+}
